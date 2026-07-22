@@ -1,0 +1,23 @@
+# --- Core data pipeline ---
+pandas
+numpy
+
+# --- Embeddings + vector search ---
+sentence-transformers
+faiss-cpu
+
+# --- LLM ---
+google-generativeai
+
+# --- Config ---
+python-dotenv
+
+# --- API layer ---
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# --- Frontend ---
+streamlit
+requests
